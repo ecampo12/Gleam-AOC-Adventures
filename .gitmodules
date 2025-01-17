@@ -1,0 +1,3 @@
+[submodule "2015_gleam_aoc"]
+	path = 2015_gleam_aoc
+	url = git@github.com:ecampo12/2015_gleam_aoc.git
